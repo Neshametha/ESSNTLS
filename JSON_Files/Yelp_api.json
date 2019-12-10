@@ -1,0 +1,934 @@
+{
+  "businesses": [
+    {
+      "id": "XXk0WJoXomMPlXsISgnXUQ",
+      "alias": "107-taste-fiu-miami-2",
+      "name": "107 Taste FIU",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7whZ_o0OK5v80jQWVEUAow/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/107-taste-fiu-miami-2?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 653,
+      "categories": [
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        },
+        {
+          "alias": "panasian",
+          "title": "Pan Asian"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.7527,
+        "longitude": -80.367311
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1679 SW 107th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "1679 SW 107th Ave",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+17867176378",
+      "display_phone": "(786) 717-6378",
+      "distance": 356.2646117204748
+    },
+    {
+      "id": "i-fgz6ZbZ4D1uqeKa76xmw",
+      "alias": "pho-79-miami",
+      "name": "Pho 79",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jf0U_dSXdg92IflSCJ6gFg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pho-79-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 617,
+      "categories": [
+        {
+          "alias": "vietnamese",
+          "title": "Vietnamese"
+        },
+        {
+          "alias": "noodles",
+          "title": "Noodles"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.7560655054096,
+        "longitude": -80.366915614626
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "1415 SW 107th Ave",
+        "address2": "",
+        "address3": null,
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "1415 SW 107th Ave",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13056037222",
+      "display_phone": "(305) 603-7222",
+      "distance": 176.63323676654278
+    },
+    {
+      "id": "Yaq6I5aAraLKZQLjPNa9-w",
+      "alias": "specialtea-lounge-miami",
+      "name": "specialTEA Lounge",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/n8P43f82w-xgVmWsrtyDSw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/specialtea-lounge-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 757,
+      "categories": [
+        {
+          "alias": "coffee",
+          "title": "Coffee & Tea"
+        },
+        {
+          "alias": "tea",
+          "title": "Tea Rooms"
+        },
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.746051,
+        "longitude": -80.369099
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "10766 SW 24th St",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10766 SW 24th St",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+13055548327",
+      "display_phone": "(305) 554-8327",
+      "distance": 1102.018557589731
+    },
+    {
+      "id": "M7rMi5_qK32oW3fN_XSWlg",
+      "alias": "night-owl-cookies-miami",
+      "name": "Night Owl Cookies",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YCUM67za5E1gbY0P8jFZnw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/night-owl-cookies-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 661,
+      "categories": [
+        {
+          "alias": "desserts",
+          "title": "Desserts"
+        },
+        {
+          "alias": "bakeries",
+          "title": "Bakeries"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.760427,
+        "longitude": -80.366641
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "10534 SW 8st",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33172",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10534 SW 8st",
+          "Miami, FL 33172"
+        ]
+      },
+      "phone": "+17863605011",
+      "display_phone": "(786) 360-5011",
+      "distance": 578.076421275021
+    },
+    {
+      "id": "TTqtazhQDoxYZvQPDSdACQ",
+      "alias": "j-petal-poke-bowl-miami-2",
+      "name": "J-Petal Poke Bowl",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rcKjS3AiaoNUn8l-Xp2mOA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/j-petal-poke-bowl-miami-2?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 132,
+      "categories": [
+        {
+          "alias": "hawaiian",
+          "title": "Hawaiian"
+        },
+        {
+          "alias": "creperies",
+          "title": "Creperies"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 5.0,
+      "coordinates": {
+        "latitude": 25.7532798,
+        "longitude": -80.3678343
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1671 SW 107th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "1671 SW 107th Ave",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+17868605900",
+      "display_phone": "(786) 860-5900",
+      "distance": 337.9945259080419
+    },
+    {
+      "id": "nBIxqLEenuVRXQRTNiL3WA",
+      "alias": "cajun-boil-miami-5",
+      "name": "Cajun Boil",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/83SturycmdbTNlZCOZnRVQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/cajun-boil-miami-5?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 366,
+      "categories": [
+        {
+          "alias": "cajun",
+          "title": "Cajun/Creole"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "asianfusion",
+          "title": "Asian Fusion"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.768374,
+        "longitude": -80.360208
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "10162 W Flagler St",
+        "address2": null,
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10162 W Flagler St",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+17863322641",
+      "display_phone": "(786) 332-2641",
+      "distance": 1535.0756036338537
+    },
+    {
+      "id": "CYRkB6xojLTmYxcX_PSh-w",
+      "alias": "dr-limon-ceviche-bar-miami-9",
+      "name": "Dr Limon Ceviche Bar",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QAqVRJR7L2FmLi07u9R7Xg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/dr-limon-ceviche-bar-miami-9?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 313,
+      "categories": [
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        },
+        {
+          "alias": "peruvian",
+          "title": "Peruvian"
+        },
+        {
+          "alias": "bars",
+          "title": "Bars"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.760314,
+        "longitude": -80.366728
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "10548 SW 8th St",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10548 SW 8th St",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13052289198",
+      "display_phone": "(305) 228-9198",
+      "distance": 567.9245061863302
+    },
+    {
+      "id": "wsJQm_iSAj2jLeK9jaCQdg",
+      "alias": "hi-pot-miami-2",
+      "name": "Hi Pot",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xQgDF9jwCa76PIkwWwMd6Q/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/hi-pot-miami-2?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 133,
+      "categories": [
+        {
+          "alias": "taiwanese",
+          "title": "Taiwanese"
+        },
+        {
+          "alias": "hotpot",
+          "title": "Hot Pot"
+        },
+        {
+          "alias": "ramen",
+          "title": "Ramen"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.752836,
+        "longitude": -80.367636
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1665 SW 107th Ave",
+        "address2": null,
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "1665 SW 107th Ave",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+17868038618",
+      "display_phone": "(786) 803-8618",
+      "distance": 363.5207390040725
+    },
+    {
+      "id": "OCw2CjwmWHBBk0oIOTn0Bg",
+      "alias": "jasmine-sushi-and-thai-cuisine-miami",
+      "name": "Jasmine Sushi & Thai Cuisine",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z_JzBpIaA50iQs00bkCKNA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/jasmine-sushi-and-thai-cuisine-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 173,
+      "categories": [
+        {
+          "alias": "sushi",
+          "title": "Sushi Bars"
+        },
+        {
+          "alias": "thai",
+          "title": "Thai"
+        },
+        {
+          "alias": "catering",
+          "title": "Caterers"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.7556519108001,
+        "longitude": -80.3666585513122
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "1429 SW 107th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "1429 SW 107th Ave",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13052079700",
+      "display_phone": "(305) 207-9700",
+      "distance": 136.52040036555985
+    },
+    {
+      "id": "j0MnMGOdiPscmQ-JIILoag",
+      "alias": "a-mari-mix-fresh-mex-fusion-miami",
+      "name": "A-Mari-Mix Fresh Mex Fusion",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/L7Xoiewe3oLNUD_KU3PwDw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/a-mari-mix-fresh-mex-fusion-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 239,
+      "categories": [
+        {
+          "alias": "mexican",
+          "title": "Mexican"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.7468571893715,
+        "longitude": -80.3519500632294
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "9700 SW 24th St",
+        "address2": "Ste D",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "9700 SW 24th St",
+          "Ste D",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+13056039134",
+      "display_phone": "(305) 603-9134",
+      "distance": 1640.5006469234584
+    },
+    {
+      "id": "QImSpb3QXtn7MJW4efFdoQ",
+      "alias": "chinese-guy-chi-town-restaurant-miami",
+      "name": "Chinese Guy Chi-town Restaurant",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PMPq5yPzTi0Wwb7Ajy3dzA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/chinese-guy-chi-town-restaurant-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 342,
+      "categories": [
+        {
+          "alias": "chinese",
+          "title": "Chinese"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.7677096022278,
+        "longitude": -80.3680984526397
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "113 SW 107th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "113 SW 107th Ave",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+17867632008",
+      "display_phone": "(786) 763-2008",
+      "distance": 1400.484063093303
+    },
+    {
+      "id": "lUqNBVO46Xr0FiZVW2KxeQ",
+      "alias": "madrono-restaurant-miami-5",
+      "name": "Madrono Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6rCMEzSV-4iooBi66llLyA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/madrono-restaurant-miami-5?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 272,
+      "categories": [
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        },
+        {
+          "alias": "nicaraguan",
+          "title": "Nicaraguan"
+        },
+        {
+          "alias": "comfortfood",
+          "title": "Comfort Food"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.768097440097,
+        "longitude": -80.3704176858444
+      },
+      "transactions": [],
+      "price": "$$",
+      "location": {
+        "address1": "10780 W Flagler St",
+        "address2": "Ste 17",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10780 W Flagler St",
+          "Ste 17",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13054853332",
+      "display_phone": "(305) 485-3332",
+      "distance": 1504.7201043599232
+    },
+    {
+      "id": "1q014EZ_BOxLtIZoe7YwJw",
+      "alias": "pdq-miami-miami",
+      "name": "PDQ - Miami",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/YQQGfVVqjDEFirSA7dWcNQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pdq-miami-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 245,
+      "categories": [
+        {
+          "alias": "sandwiches",
+          "title": "Sandwiches"
+        },
+        {
+          "alias": "chickenshop",
+          "title": "Chicken Shop"
+        },
+        {
+          "alias": "hotdogs",
+          "title": "Fast Food"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.769642412045,
+        "longitude": -80.3598993699753
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "10121 W Flagler St",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10121 W Flagler St",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13052573032",
+      "display_phone": "(305) 257-3032",
+      "distance": 1678.428660940737
+    },
+    {
+      "id": "iOhv1NmIw4rGWGgX9PLnOg",
+      "alias": "pincho-miami-8",
+      "name": "Pincho",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lYXkqNEGPcHtl4PEfcqC_g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/pincho-miami-8?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 659,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "latin",
+          "title": "Latin American"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.732132,
+        "longitude": -80.354922
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "9860 SW 40th St",
+        "address2": null,
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "9860 SW 40th St",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+13056312038",
+      "display_phone": "(305) 631-2038",
+      "distance": 2785.74644221596
+    },
+    {
+      "id": "BhB5VpKuUjE-OUrB4uSb4Q",
+      "alias": "mojo-donuts-and-fried-chicken-miami",
+      "name": "Mojo Donuts & Fried Chicken",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lEbNsEGsftISxz6-qJboKg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mojo-donuts-and-fried-chicken-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 531,
+      "categories": [
+        {
+          "alias": "chickenshop",
+          "title": "Chicken Shop"
+        },
+        {
+          "alias": "donuts",
+          "title": "Donuts"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.7327,
+        "longitude": -80.33948
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$",
+      "location": {
+        "address1": "8870 Bird Rd",
+        "address2": "Ste 13",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "8870 Bird Rd",
+          "Ste 13",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+13052236656",
+      "display_phone": "(305) 223-6656",
+      "distance": 3620.7648710390818
+    },
+    {
+      "id": "ERc5a7VXDDHRRr9UeCVfSA",
+      "alias": "109-burger-joint-miami",
+      "name": "109 Burger Joint",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QNtEBiLdg4HD2uwPnrp4gQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/109-burger-joint-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 327,
+      "categories": [
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        },
+        {
+          "alias": "chicken_wings",
+          "title": "Chicken Wings"
+        },
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        }
+      ],
+      "rating": 3.5,
+      "coordinates": {
+        "latitude": 25.76296,
+        "longitude": -80.37271
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "646 SW 109th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "646 SW 109th Ave",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13052280109",
+      "display_phone": "(305) 228-0109",
+      "distance": 1104.8838272065373
+    },
+    {
+      "id": "pqi0676GQc40r4JSxPy_UQ",
+      "alias": "el-manchego-restaurant-miami",
+      "name": "El Manchego Restaurant",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/KsDswlK7FcyzjhoJD-4V_g/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/el-manchego-restaurant-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 99,
+      "categories": [
+        {
+          "alias": "spanish",
+          "title": "Spanish"
+        },
+        {
+          "alias": "tapasmallplates",
+          "title": "Tapas/Small Plates"
+        },
+        {
+          "alias": "seafood",
+          "title": "Seafood"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.74574,
+        "longitude": -80.36828
+      },
+      "transactions": [
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "2500 SW 107th Ave",
+        "address2": "Ste 1",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33165",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "2500 SW 107th Ave",
+          "Ste 1",
+          "Miami, FL 33165"
+        ]
+      },
+      "phone": "+17865425260",
+      "display_phone": "(786) 542-5260",
+      "distance": 1121.4930494434354
+    },
+    {
+      "id": "-lvidcaRhl89pU8hCByCJA",
+      "alias": "spice-n-curry-miami",
+      "name": "Spice N Curry",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0MDCKrU1HUMwfBwaDHSMhQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/spice-n-curry-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 124,
+      "categories": [
+        {
+          "alias": "indpak",
+          "title": "Indian"
+        },
+        {
+          "alias": "grocery",
+          "title": "Grocery"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.767311,
+        "longitude": -80.368063
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "123 SW 107th Ave",
+        "address2": "",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "123 SW 107th Ave",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13053593928",
+      "display_phone": "(305) 359-3928",
+      "distance": 1356.3448939587638
+    },
+    {
+      "id": "3_aiSMesuN9OxCOsM0StIw",
+      "alias": "mr-cool-ice-cream-roll-miami",
+      "name": "Mr Cool Ice Cream Roll",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fBP2J5sZrwlDP16C7uWSDA/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/mr-cool-ice-cream-roll-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 88,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        },
+        {
+          "alias": "bubbletea",
+          "title": "Bubble Tea"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 25.7599262799819,
+        "longitude": -80.3666826269837
+      },
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "10562 SW 8th St",
+        "address2": null,
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "10562 SW 8th St",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+17864093717",
+      "display_phone": "(786) 409-3717",
+      "distance": 525.0550342568582
+    },
+    {
+      "id": "piUMyoiU7sP5ulWAc1TI5w",
+      "alias": "the-habit-burger-grill-miami",
+      "name": "The Habit Burger Grill",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4gfNKnZDkk7_JE-ekqkbrw/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/the-habit-burger-grill-miami?adjust_creative=TC5kEUG5z4OGobOXA7H80w&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=TC5kEUG5z4OGobOXA7H80w",
+      "review_count": 254,
+      "categories": [
+        {
+          "alias": "tradamerican",
+          "title": "American (Traditional)"
+        },
+        {
+          "alias": "burgers",
+          "title": "Burgers"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 25.7693118018931,
+        "longitude": -80.3578248619713
+      },
+      "transactions": [],
+      "price": "$",
+      "location": {
+        "address1": "9971 W Flagler St",
+        "address2": "Ste 180",
+        "address3": "",
+        "city": "Miami",
+        "zip_code": "33174",
+        "country": "US",
+        "state": "FL",
+        "display_address": [
+          "9971 W Flagler St",
+          "Ste 180",
+          "Miami, FL 33174"
+        ]
+      },
+      "phone": "+13052290915",
+      "display_phone": "(305) 229-0915",
+      "distance": 1723.6599124301351
+    }
+  ],
+  "total": 260,
+  "region": {
+    "center": {
+      "longitude": -80.3653335571289,
+      "latitude": 25.755363340747223
+    }
+  }
+}

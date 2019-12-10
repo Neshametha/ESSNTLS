@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form method="POST" action="{{url_for('search')}}">
+            <label>Enter Location:</label><br>
+             {{ form.location }}<br>
+
+            <!--Submit button for getting the query for recalls-->
+            <input class="btn btn-secondary btn-xl" type="submit" value="Search">
+</form>
+</body>
+</html>
